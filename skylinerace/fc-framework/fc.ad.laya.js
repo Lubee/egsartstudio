@@ -1,0 +1,1 @@
+window.fc=window.fc||{},window.fc.ad=window.fc.ad||{},window.fc.ad,Laya;

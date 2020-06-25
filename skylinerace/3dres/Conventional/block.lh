@@ -1,0 +1,1 @@
+{"version":"LAYAHIERARCHY:02","data":{"type":"MeshSprite3D","instanceID":40,"props":{"name":"block","active":true,"isStatic":false,"layer":0,"position":[0,0,0],"rotation":[-2.185569E-08,0,0,-1],"scale":[1,1,1],"meshPath":"Assets/Models/mod_guidao-mod_guidao.lm","enableRender":true,"materials":[{"path":"Assets/Materials/block.lmat"}]},"components":[],"child":[]}}
